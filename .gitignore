@@ -1,0 +1,16 @@
+theme_src/
+theme_src/*
+settings_src/
+settings_src/*
+
+theme_frontend/
+theme_frontend/*
+settings_frontend/
+settings_frontend/*
+
+theme.zip
+
+theme.js
+settings.js
+
+
